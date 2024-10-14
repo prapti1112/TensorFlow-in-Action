@@ -1,0 +1,2 @@
+# Tensorflow in Action
+This repository constains the different exercises and fundamentals from the book "Tensorflow in Action" by Thushan Ganegedara. This book gives a fundamental understanding of tensorflow to beginners.
